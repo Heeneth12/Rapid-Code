@@ -1,14 +1,26 @@
 {
-  "name": "rapidcode",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@monaco-editor/react": "^4.5.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.3.1",
+    "monaco-editor": "^0.43.0",
+    "prismjs": "^1.29.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-monaco-editor": "^0.54.0",
+    "react-router-dom": "^6.16.0",
     "react-scripts": "5.0.1",
+    "react-simple-code-editor": "^0.13.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +46,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "daisyui": "^3.7.5",
+    "gh-pages": "^6.1.0",
+    "tailwindcss": "^3.3.3"
   }
 }

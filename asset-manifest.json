@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rapid-Code/static/css/main.a92dc8df.css",
+    "main.js": "/Rapid-Code/static/js/main.8fce6bab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Rapid-Code/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pic.png": "/Rapid-Code/static/media/pic.fdb00bd668f6636e3324.png",
+    "index.html": "/Rapid-Code/index.html",
+    "main.a92dc8df.css.map": "/Rapid-Code/static/css/main.a92dc8df.css.map",
+    "main.8fce6bab.js.map": "/Rapid-Code/static/js/main.8fce6bab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Rapid-Code/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92dc8df.css",
+    "static/js/main.8fce6bab.js"
+  ]
+}

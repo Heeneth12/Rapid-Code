@@ -12,9 +12,11 @@ const Footer = () => {
           <li>
             <a href="#" className="mr-4 hover:underline md:mr-6">Privacy Policy</a>
           </li>
+         
           <li>
-            <a href="https://www.linkedin.com/in/heeneth-sai-b78173216/" className="hover:underline">Contact</a>
-          </li>
+  <a href="https://www.linkedin.com/in/heeneth-sai-b78173216/" class="hover:underline">Contact</a>
+</li>
+
         </ul>
       </div>
     </footer>

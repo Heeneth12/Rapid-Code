@@ -14,7 +14,7 @@ const Footer = () => {
           </li>
          
           <li>
-  <a href="https://www.linkedin.com/in/heeneth-sai-b78173216/" class="hover:underline">Contact</a>
+  <a  href="https://github.com/Heeneth12" class="hover:underline">Contact</a>
 </li>
 
         </ul>
